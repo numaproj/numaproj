@@ -1,7 +1,6 @@
-
 # Numaproj - Operational data analytics for Kubernetes
 
-![Numa Image](docs/assets/numa.png)
+<img src="docs/assets/numaproj-logo.svg" alt="numaproj-logo" width="150"/>
 
 ## What is Numaproj?
 
