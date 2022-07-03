@@ -7,4 +7,4 @@
 Numaproj is a collection of tools for doing real-time operation data analytics on Kubernetes. 
 
 ## Project Resources
-* Numa GitHub:  https://github.com/numaproj
+* Numaproj GitHub:  https://github.com/numaproj
