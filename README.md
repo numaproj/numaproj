@@ -11,4 +11,4 @@ Numaproj is a collection of Kubernetes-native tools for doing real-time operatio
 ## Project Resources
 * Numaproj GitHub: https://github.com/numaproj
 * Numaproj Slack: [Join](https://join.slack.com/t/numaproj/shared_invite/zt-19svuv47m-YKHhsQ~~KK9mBv1E7pNzfg)
-* Numaproj Blog: https://medium.com/numaproj
+* Numaproj Blog: https://blog.numaproj.io
