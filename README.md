@@ -10,5 +10,5 @@ numaproj is a collection of Kubernetes-native tools for doing real-time operatio
 
 ## Project Resources
 * numaproj GitHub: https://github.com/numaproj
-* numaproj Slack: [Join](https://join.slack.com/t/numaproj/shared_invite/zt-19svuv47m-YKHhsQ~~KK9mBv1E7pNzfg)
+* numaproj Slack: [Join](https://join.slack.com/t/numaproj/shared_invite/zt-2tflzfaxx-AeaOZtUtkZuxxTqqjL0TSg)
 * numaproj Blog: https://blog.numaproj.io
