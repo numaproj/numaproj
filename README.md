@@ -1,4 +1,4 @@
-# numaproj - Operational data analytics for Kubernetes
+# numaproj - Cloud Native Streaming Processing Platform
 
 <img src="docs/assets/numaproj-logo.svg" alt="numaproj-logo" width="150"/>
 
@@ -6,7 +6,8 @@
 
 numaproj is a collection of Kubernetes-native tools for doing real-time operation data analytics. 
 * [numaflow](https://github.com/numaproj/numaflow) - Massively parallel, real-time data and stream processing engine
-* [numalogic](https://github.com/numaproj/numalogic) - ML models and tools for real-time operational data analytics
+* [numaplane](https://github.com/numaproj/numaplane) - An opinionated Control Plane for manaing Numaflow Piplines
+* [SDKs](https://github.com/topics/numaflow-sdk) - SDKs for Numaflow
 
 ## Project Resources
 * numaproj GitHub: https://github.com/numaproj
