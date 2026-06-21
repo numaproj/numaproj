@@ -13,6 +13,7 @@ This document lists maintainers of Numaproj.
 | Keran Yang | [KeranYang](https://github.com/KeranYang) | Developer | 
 | Sidhant Kohli | [kohlisid](https://github.com/kohlisid) | Developer |
 | Sreekanth PR | [BulkBeing](https://github.com/BulkBeing) | Developer |
+| Sri Harsha Yayi | [syayi](https://github.com/syayi) | Product Manager |
 | Vaibhav Tiwari | [vaibhavtiwari33](https://github.com/vaibhavtiwari33) | Developer |
 | Vedant Gupta | [veds-g](https://github.com/veds-g) | Developer |
 | Vigith Maurice | [vigith](https://github.com/vigith) | Chief Architect, Lead Developer |
@@ -28,3 +29,4 @@ coherence across components. |
 primary owner of the codebase. |
 | **Developer** | Contributes code, fixes bugs, implements features, reviews pull requests, and participates in the ongoing maintenance and evolution of the project. |
 | **Executive Sponsor** | Provides organizational backing, funding, and strategic support; champions the project at the leadership level rather than contributing code. |
+| **Product Manager** | Acts as the primary liaison with customers and stakeholders, and manages the community meetings and events. |
