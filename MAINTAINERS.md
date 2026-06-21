@@ -2,6 +2,8 @@
 
 This document lists maintainers of Numaproj.
 
+## Maintainers
+
 | Maintainer | Github ID | Roles |
 | ---------- | --------- | ----- |
 | Adarsh Jain | [adarsh0728](https://github.com/adarsh0728) | Developer |
@@ -15,3 +17,14 @@ This document lists maintainers of Numaproj.
 | Vedant Gupta | [veds-g](https://github.com/veds-g) | Developer |
 | Vigith Maurice | [vigith](https://github.com/vigith) | Chief Architect, Lead Developer |
 | Yashash Lokesh | [yhl25](https://github.com/yhl25) | Lead Developer |
+
+## Roles and Responsibilities
+
+| Role | Description |
+| ---- | ----------- |
+| **Chief Architect** | Owns the overall technical vision and high-level system design of the project; sets architectural direction and ensures long-term technical
+coherence across components. |
+| **Lead Developer** | Drives day-to-day technical execution — designs and reviews major features, makes key implementation decisions, mentors other developers, and is a
+primary owner of the codebase. |
+| **Developer** | Contributes code, fixes bugs, implements features, reviews pull requests, and participates in the ongoing maintenance and evolution of the project. |
+| **Executive Sponsor** | Provides organizational backing, funding, and strategic support; champions the project at the leadership level rather than contributing code. |
