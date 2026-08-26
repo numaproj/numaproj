@@ -1,6 +1,6 @@
 # Contributing to the Numa Project
 
-Read and abide by the [Numa Project Code of Conduct](https://github.com/numaproj/numaproj/blob/master/CODE_OF_CONDUCT.md).
+Read and abide by the [Numaproj Code of Conduct](https://github.com/numaproj/numaproj/blob/main/CODE_OF_CONDUCT.md).
 
 Numa Project uses the DCO.
 * https://github.com/apps/dco/
